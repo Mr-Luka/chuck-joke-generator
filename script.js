@@ -9,10 +9,4 @@ const getData = async function (){
 }
 getData()
 
-
-function newJoke (){
-    getData()
-}
-
-
-button.addEventListener("click", newJoke);
+button.addEventListener("click", getData);
