@@ -1,0 +1,12 @@
+Joke Generator Project:
+
+I will be pulling up the API from:
+https://api.chucknorris.io/
+to get a random Chuck Norris joke and put it into the page.
+I will also make a button that will allow me to get a new joke, 
+aka. to generate a new joke each time I press the button.
+
+- Add an event Listener for the button
+- Create a function that will make a request to: https://api.chucknorris.io/jokes/random
+- Get the data that is sent back.
+- Display the joke in the page with each time you click the button.
